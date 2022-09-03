@@ -20,12 +20,19 @@ user set 2 - {
               }
               
 EndPoints - 
+
 /users              -
+
 /users/id           -
+
 /orders             -
+
 /orders/id          -
+
 /users/id/orders    -
+
 /users/id/orders/id -
+
 
 All id starts with 1
 
