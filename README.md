@@ -36,4 +36,6 @@ EndPoints -
 
 All id starts with 1
 
-To access endpoints pass Autharization a skey in header and value as "Bearer <access token>"
+To access endpoints pass Autharization as key in header and value as 
+
+"Bearer <access token>"
