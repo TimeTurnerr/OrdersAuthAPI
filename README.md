@@ -38,4 +38,4 @@ All id starts with 1
 
 To access endpoints pass Autharization as key in header and value as 
 
-"Bearer <access token>"
+"Bearer access-token"
